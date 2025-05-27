@@ -1,0 +1,12 @@
+[
+  { "id": 1, "titel": "Fenster Bestellung #001", "status": "offen", "prio": "hoch" },
+  { "id": 2, "titel": "Tür Lieferung #002", "status": "in Bearbeitung", "prio": "mittel" },
+  { "id": 3, "titel": "Balkontür Projekt #003", "status": "abgeschlossen", "prio": "mittel" },
+  { "id": 4, "titel": "Wintergarten Glas #004", "status": "offen", "prio": "hoch" },
+  { "id": 5, "titel": "Fensterreparatur #005", "status": "in Bearbeitung", "prio": "hoch" },
+  { "id": 6, "titel": "Dachfenster Montage #006", "status": "abgeschlossen", "prio": "niedrig" },
+  { "id": 7, "titel": "Schiebetür Einbau #007", "status": "offen", "prio": "hoch" },
+  { "id": 8, "titel": "Fenster Bestellung #008", "status": "in Bearbeitung", "prio": "mittel" },
+  { "id": 9, "titel": "Tür Lieferung #009", "status": "abgeschlossen", "prio": "niedrig" },
+  { "id": 10, "titel": "Glasreparatur #010", "status": "offen", "prio": "hoch" }
+]

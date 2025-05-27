@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Max Muster", "email": "max@muster.de", "phone": "01234 567890" },
+  { "id": 2, "name": "Julia Beispiel", "email": "julia@beispiel.de", "phone": "09876 543210" },
+  { "id": 3, "name": "Tobias Tech", "email": "tobias@tech.de", "phone": "01122 334455" },
+  { "id": 4, "name": "Clara Cloud", "email": "clara@cloud.de", "phone": "06666 777888" },
+  { "id": 5, "name": "David Daten", "email": "david@daten.de", "phone": "02233 445566" },
+  { "id": 6, "name": "Emma ERP", "email": "emma@erp.de", "phone": "04455 667788" },
+  { "id": 7, "name": "Paul Prozess", "email": "paul@prozess.de", "phone": "03344 556677" },
+  { "id": 8, "name": "Sophie Support", "email": "sophie@support.de", "phone": "09988 776655" },
+  { "id": 9, "name": "Leo Logistik", "email": "leo@logistik.de", "phone": "05555 666777" },
+  { "id": 10, "name": "Nina Netzwerk", "email": "nina@netzwerk.de", "phone": "06677 889900" }
+]

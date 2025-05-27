@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Lara Lead", "email": "lara@leads.de", "reason": "Angebot", "prio": "hoch" },
+  { "id": 2, "name": "Tom Ticket", "email": "tom@support.de", "reason": "Support", "prio": "mittel" },
+  { "id": 3, "name": "Ella Anfrage", "email": "ella@fragen.de", "reason": "Beratung", "prio": "mittel" },
+  { "id": 4, "name": "Ben Beratung", "email": "ben@beratung.de", "reason": "Neukunde", "prio": "hoch" },
+  { "id": 5, "name": "Lisa Logistik", "email": "lisa@logistik.de", "reason": "Logistik", "prio": "mittel" },
+  { "id": 6, "name": "Jan Java", "email": "jan@java.de", "reason": "Technik", "prio": "hoch" },
+  { "id": 7, "name": "Kim Kunde", "email": "kim@kunde.de", "reason": "Reklamation", "prio": "hoch" },
+  { "id": 8, "name": "Oli Onboarding", "email": "oli@onboarding.de", "reason": "Schulung", "prio": "mittel" },
+  { "id": 9, "name": "Paul Planung", "email": "paul@planung.de", "reason": "Projektanfrage", "prio": "mittel" },
+  { "id": 10, "name": "Tina Technik", "email": "tina@technik.de", "reason": "Technik", "prio": "hoch" }
+]

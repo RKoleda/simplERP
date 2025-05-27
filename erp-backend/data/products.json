@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Fenster Typ A",
+    "sku": "6597",
+    "Beschreibung": "Fensterbauartikel",
+    "stock": 120,
+    "Einheit": "Stueck"
+  },
+  {
+    "id": 2,
+    "name": "Fenster Typ B",
+    "stock": 80
+  },
+  {
+    "id": 3,
+    "name": "Doppelfenster",
+    "stock": 45
+  },
+  {
+    "id": 4,
+    "name": "Schallschutzfenster",
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "name": "Holztür Eiche",
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "name": "Holztür Buche",
+    "stock": 35
+  },
+  {
+    "id": 7,
+    "name": "Glasschiebetür",
+    "stock": 15
+  },
+  {
+    "id": 8,
+    "name": "Fenstergriff",
+    "stock": 250
+  },
+  {
+    "id": 9,
+    "name": "Türklinke",
+    "stock": 300
+  },
+  {
+    "id": 10,
+    "name": "Dichtung Gummi",
+    "stock": 500
+  },
+  {
+    "id": "56ba4b3e-d2f9-435b-b6e3-286ac44675dc",
+    "name": "Test",
+    "sku": "6597",
+    "description": "",
+    "stock": 250,
+    "unit": "Stueck"
+  }
+]
