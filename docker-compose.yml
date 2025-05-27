@@ -1,0 +1,19 @@
+# docker-compose.yml
+version: '3.9'
+
+services:
+  backend:
+    build: ./erp-backend
+    ports:
+      - '5000:5000'
+    volumes:
+      - ./erp-backend/data:/app/data
+    environment:
+      - NODE_ENV=production
+
+  frontend:
+    build: ./erp-frontend
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=production
